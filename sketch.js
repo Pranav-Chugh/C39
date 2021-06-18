@@ -15,12 +15,12 @@ var track, ground;
 
 function preload() {
 
-carImg1 = loadImage("../images/car1.png");
-carImg2 = loadImage("../images/car2.png");
-carImg3 = loadImage("../images/car3.png");
-carImg4 = loadImage("../images/car4.png");
-track   = loadImage("../images/track.jpg");
-ground  = loadImage("../images/ground.png");
+carImg1 = loadImage("images/car1.png");
+carImg2 = loadImage("images/car2.png");
+carImg3 = loadImage("images/car3.png");
+carImg4 = loadImage("images/car4.png");
+track   = loadImage("images/track.jpg");
+ground  = loadImage("images/ground.png");
 
 }
 function setup(){
